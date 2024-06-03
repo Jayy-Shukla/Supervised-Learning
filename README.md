@@ -1,6 +1,7 @@
 Step 1: The project consists of 4 files:-
 
 1)titanic.csv
+
 2)advanced feature engineering
 3)Feature Engineering
 4)Report File
